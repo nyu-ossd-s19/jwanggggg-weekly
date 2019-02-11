@@ -1,25 +1,6 @@
----
-layout: page
-title: My Open Source Contributions
-permalink: /contributions/
----
-
-<!-- 
-Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "Documentation", "Course website", "Blog", 
-"Browse Add-on", etc. 
-
-The descriptioin should include a brief summary of what you did. 
-
-Replace the first row with your contribution. 
-
---> 
-
-
-
-
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+|  2   | [Link](https://github.com/nyu-ossd-s19/rns350-weekly/issues/1)    | Reed Schick's Blog | Notified missing links |
+|  2   | [Link](https://github.com/nyu-ossd-s19/asunwoo98-weekly/issues/3)   | Antony Sunwoo's Blog | Identified multiple spelling errors |
+|  2   | [Link](https://github.com/nyu-ossd-s19/andreawaxman-weekly/issues/5)    | Andrea Waxman's Blog | Broken blog link in wiki |
