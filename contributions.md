@@ -9,3 +9,4 @@
 |  4   | [Link](https://github.com/nyu-ossd-s19/jwanggggg-weekly/blob/gh-pages/_posts/2048_evaluation.md)   | Project Evaluation | Created project evaluation for open source project 2048. |
 |  6   | [Link](https://github.com/nyu-ossd-s19/jwanggggg-weekly/blob/gh-pages/_posts/CodeAlliance_Evaluation.md)   | Project Evaluation | Created project evaluation for open source project CodeAlliance. |
 |  9   | [Wikipedia: League of Legends World Championship](https://en.wikipedia.org/wiki/League_of_Legends_World_Championship)    | Edits | Made some edits to Wikipedia pages.|
+|  9   | [Link](https://github.com/vuejs/vue/issues/9831)   | Error Report | Reported an error in Vue regarding installation
