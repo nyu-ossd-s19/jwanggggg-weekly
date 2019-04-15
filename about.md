@@ -1,4 +1,8 @@
-# About Me
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 Hello! I'm Jonathan Wang, a CS student at NYU Courant who's interested in mobile and web development. Aside from being a full-time student, I'm also a musician and love composing piano music for films, shows and original shorts.
 
