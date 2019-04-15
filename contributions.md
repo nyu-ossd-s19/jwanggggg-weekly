@@ -11,3 +11,4 @@
 |  9   | [Wikipedia: League of Legends World Championship](https://en.wikipedia.org/wiki/League_of_Legends_World_Championship)    | Edits | Made some edits to Wikipedia pages. I fixed several dead links by redirecting them to the correct pages, fixed noticeable grammar and stylistic errors, and contributed additional information to a section that was deemed a "stub". |
 |  9   | [Link](https://github.com/vuejs/vue/issues/9831)   | Error Report | Reported an issue in Vue regarding installation. The issue was large enough that the Contributing file was changed. |
 |  10   | [Wikipedia: League of Legends World Championship](https://en.wikipedia.org/w/index.php?title=League_of_Legends_World_Championship&oldid=892519100)   | Editing article | Expanded a stub one of the sections, adding several more paragraphs with relevant citations. |
+|  10   | [Link](https://github.com/vuejs/vue/pull/9872)   | Pull Request | Fixed a grammatical issue in the README.md. |
