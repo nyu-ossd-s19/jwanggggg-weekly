@@ -12,3 +12,4 @@
 |  9   | [Link](https://github.com/vuejs/vue/issues/9831)   | Error Report | Reported an issue in Vue regarding installation. The issue was large enough that the Contributing file was changed. |
 |  10   | [Wikipedia: League of Legends World Championship](https://en.wikipedia.org/w/index.php?title=League_of_Legends_World_Championship&oldid=892519100)   | Editing article | Expanded a stub one of the sections, adding several more paragraphs with relevant citations. |
 |  10   | [Link](https://github.com/vuejs/vue/pull/9872)   | Pull Request | Fixed a grammatical issue in the README.md. |
+|  11   | [Link](https://discordapp.com/channels/325477692906536972/325554169652183040)   | Discussion | Started a discussion in discord for open source contributions |
