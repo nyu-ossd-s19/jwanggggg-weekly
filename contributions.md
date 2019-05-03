@@ -18,3 +18,4 @@
 |  12   | [Link](https://forum.vuejs.org/t/chinese-documentation-translations/62269)   | Forum Post (Vue.js) | Proposed Chinese translations for the Vue documentation |
 |  13   | [Link](https://github.com/nyu-ossd-s19/jwanggggg-weekly/pull/2)   | Merging PR (Personal Blog) | Merged a pull request for documentation fix in personal blog |
 |  13   | [Link](https://github.com/joannakl/ossd_s19/pull/19)   | Merging PR (Course Website) | Merged a pull request for documentation fix in personal blog |
+|  13   | [Proof](vueMeetup.png)   | Meetup | Attended a Vue.js NYC Meetup. |
