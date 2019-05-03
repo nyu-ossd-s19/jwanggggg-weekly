@@ -16,3 +16,4 @@
 |  11   | [Link](https://discordapp.com/channels/325477692906536972/325554169652183040)   | Discussion | Started a discussion in discord for open source contributions |
 |  12   | [Link](https://github.com/vuejs/vue/issues/8266#issuecomment-486403804)   | Bug Gardening | Inquired about a bug that was occurring in JavaScript event |
 |  12   | [Link](https://forum.vuejs.org/t/chinese-documentation-translations/62269)   | Forum Post | Proposed Chinese translations for the Vue documentation |
+|  13   | [Link](https://github.com/nyu-ossd-s19/jwanggggg-weekly/pull/2)   | Merging PR | Merged a pull request for documentation fix in personal blog |
