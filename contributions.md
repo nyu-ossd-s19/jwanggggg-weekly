@@ -12,4 +12,7 @@
 |  9   | [Link](https://github.com/vuejs/vue/issues/9831)   | Error Report | Reported an issue in Vue regarding installation. The issue was large enough that the Contributing file was changed. |
 |  10   | [Wikipedia: League of Legends World Championship](https://en.wikipedia.org/w/index.php?title=League_of_Legends_World_Championship&oldid=892519100)   | Editing article | Expanded a stub one of the sections, adding several more paragraphs with relevant citations. |
 |  10   | [Link](https://github.com/vuejs/vue/pull/9872)   | Pull Request | Fixed a grammatical issue in the README.md. |
+|  10   | [Link](https://github.com/vuejs/vue/issues/9831)   | Issue Report | Reported an issue regarding installation with npm vs. Yarn. Yarn was eventually changed in the Contributions file. |
 |  11   | [Link](https://discordapp.com/channels/325477692906536972/325554169652183040)   | Discussion | Started a discussion in discord for open source contributions |
+|  12   | [Link](https://github.com/vuejs/vue/issues/8266#issuecomment-486403804)   | Bug Gardening | Inquired about a bug that was occurring in JavaScript event |
+|  12   | [Link](https://forum.vuejs.org/t/chinese-documentation-translations/62269)   | Forum Post | Proposed Chinese translations for the Vue documentation |
