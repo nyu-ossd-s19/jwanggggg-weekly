@@ -17,5 +17,5 @@
 |  12   | [Bug Gardening](https://github.com/vuejs/vue/issues/8266#issuecomment-486403804)   | Vue.js | Inquired about a bug that was occurring in JavaScript event |
 |  12   | [Forum Post](https://forum.vuejs.org/t/chinese-documentation-translations/62269)   | Vue.js | Proposed Chinese translations for the Vue documentation |
 |  13   | [PR Merge](https://github.com/nyu-ossd-s19/jwanggggg-weekly/pull/2)   | Personal Blog | Merged a pull request for documentation fix in personal blog |
-|  13   | [Documentation](https://github.com/joannakl/ossd_s19/pull/19)   | Merging PR (Course Website) | Merged a pull request for documentation fix in personal blog |
+|  13   | [Pull Request, Documentation](https://github.com/joannakl/ossd_s19/pull/19)   | Course Website | Fixed a documentation error with bullet points. |
 |  13   | [Meetup](vueMeetup.png) | Meetup | Attended a Vue.js NYC Meetup. |
