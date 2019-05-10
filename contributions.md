@@ -19,3 +19,4 @@
 |  13   | [PR Merge](https://github.com/nyu-ossd-s19/jwanggggg-weekly/pull/2)   | Personal Blog | Merged a pull request for documentation fix in personal blog |
 |  13   | [Pull Request, Documentation](https://github.com/joannakl/ossd_s19/pull/19)   | Course Website | Fixed a documentation error with bullet points. |
 |  13   | [Meetup](vueMeetup.png) | Meetup | Attended a Vue.js NYC Meetup. |
+|  14   | [Wikipedia](https://en.wikipedia.org/wiki/Counter_Logic_Gaming#Current_rosters) | Edits - Counter Logic Gaming | Updated team's roster, as per recent changes in the past week. |
