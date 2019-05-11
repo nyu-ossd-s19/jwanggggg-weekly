@@ -21,3 +21,5 @@
 |  13   | [Meetup](vueMeetup.png) | Meetup | Attended a Vue.js NYC Meetup. |
 |  14   | [Wikipedia](https://en.wikipedia.org/wiki/Counter_Logic_Gaming#Current_rosters) | Edits - Counter Logic Gaming | Updated team's roster, as per recent changes in the past week. |
 |  14   | [Pull Request, Documentation](https://github.com/joannakl/ossd_s19/pull/20) | Course Website | Fixed a documentation error with punctuation and formatting |
+|  14   | [Closing Issue](https://github.com/nyu-ossd-s19/jwanggggg-weekly/issues/1) | Personal Blog | Closed an issue regarding formatting in my blog. |
+
