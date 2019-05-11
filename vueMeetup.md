@@ -17,3 +17,5 @@ The technical portion of the talk was dedicated to dynamic CSS components and ho
 The person giving the talk was a software engineer who used Vue to create CSS stylings for her company's website, so it was
 great to watch someone with both mastery and use for Vue create a very functional and beautiful app in front of us. Overall,
 I enjoyed the meetup a lot and would definitely consider going to more in the future.
+
+![alt text](vueMeetup.png)
